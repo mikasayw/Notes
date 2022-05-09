@@ -55,5 +55,8 @@
   git fetch origin [target]
   git rebase origin/[target]
   git push
+
+  ## 不管此分支是否多人开发 一律用此命令(使用该命令在强制覆盖前会进行一次检查如果其他人在该分支上有提交会有一个警告)
+  git push --force-with-lease origin feature
   ```
           
