@@ -3,6 +3,7 @@
 ###### experience
   -  [手写promise](./%E6%89%8B%E5%86%99promise.md)
   -  [Typescript](./Typescript.md)
+  -  [前端性能优化](./performance.md)
 
 ###### 工具
   -  [git](./git.md)
